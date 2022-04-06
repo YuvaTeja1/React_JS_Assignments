@@ -7,4 +7,4 @@ function Red(){
         </>
     );
 }
-export default Red;  
+export default Red;   

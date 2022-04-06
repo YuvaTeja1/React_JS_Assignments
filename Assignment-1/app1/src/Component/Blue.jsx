@@ -9,4 +9,4 @@ function Blue(){
         </div>
     </>);
 }
-export default Blue;  
+export default Blue;   
