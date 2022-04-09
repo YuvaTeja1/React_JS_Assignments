@@ -10,23 +10,12 @@ import reportWebVitals from './reportWebVitals';
 // console.log(timeNow)
 // console.log(datereq)
 
-const data={
-  Name:'Kyama YuvaTeja',
-  EmployeeID: '2RUPL3033YUVATEJAKYAMA',
-  Time:'09:30',
-  date:'06-04-2022',
-  Email:'xxx.yy@email.nl',
-  Phone:'+91-9652114008',
-  Status:'In Progress',
-  Door:'Mark',
-  Img:'https://www.w3schools.com/howto/img_avatar.png',
-  time2:'17:00',
-};
+
 
 
 ReactDOM.render(
   <React.StrictMode>
-    <App data={data} />
+    <App />
   </React.StrictMode>,
   document.getElementById('root')
 );
